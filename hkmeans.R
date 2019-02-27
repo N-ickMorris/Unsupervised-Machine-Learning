@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------------
 
 # set the path of where the input files are
-mywd = "C:/.../Unsupervised/Hierarchical-K-Means"
+mywd = "C:/ ... /Unsupervised/Hierarchical-K-Means"
 
 # create a name for a .txt file to log progress information while parallel processing
 myfile = "log.txt"
