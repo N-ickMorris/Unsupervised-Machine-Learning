@@ -1,0 +1,4 @@
+Metric,Value,Description
+k.min,2,What is the minimum number of clusters to consider?
+k.max,15,What is the maximum number of clusters to consider?
+cores,0.66,The proportion of your computers cores to use
